@@ -3,11 +3,12 @@ import Team from "./pages/Team";
 import Home from "./pages/Home";
 import Recruiter from "./pages/Recruiter";
 import Footer from "./Components/Footer";
+import Navbar from "./Components/Navbar";
 
 const App = () => {
   return (
     <BrowserRouter>
-    <Navbar />
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/team" element={<Team />} />
