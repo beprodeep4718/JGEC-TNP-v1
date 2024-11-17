@@ -16,7 +16,7 @@ const Teams = () => {
     <div className="bg-secondary min-h-screen p-8">
       {/* Head Section */}
       <div>
-        <h2 className="text-xl font-bold text-primary bg-primary text-secondary p-3 text-center rounded-md">
+        <h2 className="text-xl font-bold bg-primary text-secondary p-3 text-center rounded-md">
           Head of The TnP Cell
         </h2>
         <div className="mt-4 flex justify-center">
@@ -26,7 +26,7 @@ const Teams = () => {
 
       {/* Student Team */}
       <div className="mt-10">
-        <h2 className="text-xl font-bold text-primary bg-primary text-secondary p-3 text-center rounded-md">
+        <h2 className="text-xl font-bold bg-primary text-secondary p-3 text-center rounded-md">
           Student Team : 2024-2025
         </h2>
 
