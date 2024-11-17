@@ -2,6 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'lato-bold';
+    src: url('/assets/fonts/Lato-Bold.ttf');
+}
+@font-face {
+    font-family: 'lato-regular';
+    src: url('/assets/fonts/Lato-Regular.ttf');
+}
+@font-face {
+    font-family: 'lato-light';
+    src: url('/assets/fonts/Lato-Light.ttf');
+}
+@font-face {
+    font-family: 'gilroy-bold';
+    src: url('/assets/fonts/Gilroy-Bold.ttf');
+}
+
 * {
     margin: 0;
     padding: 0;
