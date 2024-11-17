@@ -9,17 +9,15 @@ const Footer = () => {
           <h3 className="text-lg font-semibold">Location</h3>
           <p>Jalpaiguri, West Bengal</p>
           <div className="border rounded-lg overflow-hidden w-[220px] h-[150px] shadow-md cursor-pointer">
-            <a
-              href="https://www.google.com/maps?q=Jalpaiguri,+West+Bengal"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src="https://via.placeholder.com/220x150.png?text=Map+Image"
-                alt="College Location"
-                className="w-full h-full object-cover"
-              />
-            </a>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3569.196807672893!2d88.70117917528172!3d26.54594467686763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e47bce687f169d%3A0x4152036d0d736d37!2sJalpaiguri%20Government%20Engineering%20College!5e0!3m2!1sen!2sin!4v1731827863470!5m2!1sen!2sin"
+              width="220"
+              height="150"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
           <p className="text-sm text-gray-300">
             Location of our college through Google Map and also clickable part
@@ -90,5 +88,4 @@ const Footer = () => {
   );
 };
 
-export default Footer;
-
+export default Footer;         

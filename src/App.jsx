@@ -2,8 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Team from "./pages/Team";
 import Home from "./pages/Home";
 import Recruiter from "./pages/Recruiter";
-import Navbar from "./Components/Navbar";
-
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -14,6 +13,7 @@ const App = () => {
         <Route path="/team" element={<Team />} />
         <Route path="/recruiter" element={<Recruiter />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 };
