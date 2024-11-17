@@ -1,1 +1,1 @@
-﻿# JGEC-TNP-v1
+# JGEC-TNP-v1
