@@ -1,28 +1,11 @@
 import React from "react";
+import HeaderSection from "../Components/HeaderSection";
 
 const Home = () => {
   return (
     <div className="bg-secondary min-h-screen">
       {/* Header Section */}
-      <header className="bg-primary text-white py-6">
-        <div className="container mx-auto flex justify-between items-center">
-          <div className="flex items-center">
-            <img
-              src="/assets/images/logo.png" // Replace with the logo image URL
-              alt="Logo"
-              className="h-16 w-16 mr-4"
-            />
-            <div>
-              <h1 className="text-2xl font-bold">Training and Placement Cell</h1>
-              <p>Jalpaiguri Government Engineering College</p>
-            </div>
-          </div>
-          <div className="text-right">
-            <p>tnpmail@jgec.ac.in</p>
-            <p>9676543210</p>
-          </div>
-        </div>
-      </header>
+      <HeaderSection />
 
       {/* Banner Section */}
       <section className="relative">

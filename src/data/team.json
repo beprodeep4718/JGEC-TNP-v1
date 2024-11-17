@@ -1,0 +1,16 @@
+{
+    "head": {
+      "name": "Nimai Mukhopadhyay",
+      "contact": "+91 9434701724",
+      "email": "head@example.com"
+    },
+    "spocs": [
+      { "name": "SPOC 1", "contact": "+91 1111111111", "email": "spoc1@example.com" },
+      { "name": "SPOC 2", "contact": "+91 2222222222", "email": "spoc2@example.com" }
+    ],
+    "coordinators": [
+      { "name": "Coordinator 1", "contact": "+91 3333333333", "email": "coord1@example.com" },
+      { "name": "Coordinator 2", "contact": "+91 4444444444", "email": "coord2@example.com" }
+    ]
+  }
+  
