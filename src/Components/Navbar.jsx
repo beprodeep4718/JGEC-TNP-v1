@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -22,7 +23,8 @@ const Navbar = () => {
           For Students <i className="ri-arrow-down-s-line"></i>
         </h1>
         <h1>
-          Team <i className="ri-arrow-down-s-line"></i>
+          <Link to="/team">Team</Link>
+          <i className="ri-arrow-down-s-line"></i>
         </h1>
         <h1>Downloads</h1>
       </div>
@@ -46,7 +48,8 @@ const Navbar = () => {
               For Students <i className="ri-arrow-down-s-line"></i>
             </h1>
             <h1>
-              Team <i className="ri-arrow-down-s-line"></i>
+              <Link to="/team">Team</Link>
+              <i className="ri-arrow-down-s-line"></i>
             </h1>
             <h1>Downloads</h1>
           </div>
