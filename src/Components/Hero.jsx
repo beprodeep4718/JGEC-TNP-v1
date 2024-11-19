@@ -20,10 +20,10 @@ const Hero = () => {
           </h1>
           <div className="w-full flex flex-col lg:flex-row items-center justify-center lg:justify-start gap-4">
             <h1 className="bg-primary text-center text-white px-4 py-2 lg:py-4 text-sm lg:text-xl flex-1">
-              tnpmail@jgec.an.in
+              placement@jgec.an.in
             </h1>
             <h1 className="bg-primary text-center text-white px-4 py-2 lg:py-4 text-sm lg:text-xl flex-1">
-              9876543210
+            +91 94347 01724
             </h1>
           </div>
         </div>
