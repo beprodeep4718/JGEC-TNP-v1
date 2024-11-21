@@ -31,25 +31,25 @@ const Footer = () => {
           <p className="flex items-center">
             📞{" "}
             <a
-              href="tel:+919876543210"
+              href="tel:+91 94347 01724"
               className="ml-2 underline hover:text-yellow-400 transition"
             >
-              +91 9876543210
+              +91 94347 01724
             </a>
           </p>
           <p className="flex items-center">
             📧{" "}
             <a
-              href="mailto:tnpmail@jgec.an.in"
+              href="mailto:placement@jgec.an.in"
               className="ml-2 underline hover:text-yellow-400 transition"
             >
-              tnpmail@jgec.an.in
+              placement@jgec.an.in
             </a>
           </p>
           <p className="flex items-center">
             🔗{" "}
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/company/jgecplacementcell/"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-2 underline hover:text-yellow-400 transition"
