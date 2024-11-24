@@ -13,7 +13,7 @@ const Teams = () => {
   );
 
   return (
-    <div className="bg-secondary min-h-screen p-8">
+    <div className="bg-secondary min-h-screen pt-20 p-8">
       {/* Head Section */}
       <div>
         <h2 className="text-xl font-bold bg-primary text-secondary p-3 text-center rounded-md">

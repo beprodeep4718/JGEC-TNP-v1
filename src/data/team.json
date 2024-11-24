@@ -5,12 +5,35 @@
       "email": "head@example.com"
     },
     "spocs": [
-      { "name": "SPOC 1", "contact": "+91 1111111111", "email": "spoc1@example.com" },
-      { "name": "SPOC 2", "contact": "+91 2222222222", "email": "spoc2@example.com" }
+      { "name": "Shreya Sarkar", "contact": "+91 1111111111", "email": "spoc1@example.com" },
+      { "name": "MD Shahil", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Kushal Ghosh", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Anushka Chattopadhyay", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Dhiraj Thakur", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Parmita Saha", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Shreyashi Dasgupta", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Tonay Sen", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Pabitra Kumar Mahato", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Sherya Dandapat", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Aditi Pal", "contact": "+91 2222222222", "email": "spoc2@example.com" },
+      { "name": "Uttaran Kundu", "contact": "+91 2222222222", "email": "spoc2@example.com" }
     ],
     "coordinators": [
-      { "name": "Coordinator 1", "contact": "+91 3333333333", "email": "coord1@example.com" },
-      { "name": "Coordinator 2", "contact": "+91 4444444444", "email": "coord2@example.com" }
+      { "name": "Sandipan Chatterjee", "contact": "+91 3333333333", "email": "coord1@example.com" },
+      { "name": "Shreyan Majumdar", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Abhigyan Singh", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Rohan Gope", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Sowham Bhuin", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Swadesh Pal", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "SK Rajesh", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Aditi Kumari", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Ankit Sengupta", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "MD Zeeshan Ahmed", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Soumava Saha", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Sabik Aleem", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Taibu Ray", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Swastic Biswas", "contact": "+91 4444444444", "email": "coord2@example.com" },
+      { "name": "Debraat Healder", "contact": "+91 4444444444", "email": "coord2@example.com" }
     ]
   }
   
